@@ -1,0 +1,34 @@
+﻿<Properties StartupConfiguration="{A5664618-C214-45A7-0B17-EEF0C9614F0E}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Script/MainMenuControl.cs">
+    <Files>
+      <File FileName="Assets/Script/CaracterControl.cs" Line="154" Column="51" />
+      <File FileName="Assets/Script/MaceControl.cs" />
+      <File FileName="Assets/Script/SawCode.cs" />
+      <File FileName="Assets/Script/ChestController.cs" />
+      <File FileName="Assets/Script/CoinContol.cs" />
+      <File FileName="Assets/Script/MainMenuControl.cs" Line="15" Column="12" />
+      <File FileName="Assets/Script/MovingPlatformController.cs" />
+      <File FileName="Assets/Script/RemoveBullet.cs" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="RedCore" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="Script" expanded="True">
+                <Node name="MainMenuControl.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="27a153d2-cec8-4907-aa29-a37845c7432a" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
